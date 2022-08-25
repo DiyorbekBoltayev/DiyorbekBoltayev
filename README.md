@@ -1,19 +1,12 @@
-### Hi there 👋
+👋 Hi, I'm Diyorbek \
+💻 I know PHP & MYSQL & OOP & Laravel \
+👨‍💻 I’m looking to collaborate on projects \
+💬 I'm 19-years old developer from Uzbekistan/Khorezm \
+🌐 My web-site [AmuSof.uz](http://amusoft.uz) \
+📫 Reach me on [![Diyorbek Boltayev](https://img.shields.io/badge/DiyorbekBoltayev-30302f?style=flat&logo=telegram)](https://t.me/Diyorbek_Boltayev) \
 
-<!--
-**DiyorbekBoltayev/DiyorbekBoltayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+\
+![Dynamic name](https://github-readme-stats.vercel.app/api?username=DiyorbekBoltayev&show_icons=true&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyorbekBoltayev&layout=compact&theme=radical) \
+[![wakatime](https://wakatime.com/badge/user/88be9afb-b2e3-4019-85f9-6e7d02e50981.svg)](https://wakatime.com/@88be9afb-b2e3-4019-85f9-6e7d02e50981)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![Diyorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyorbekBoltayev&show_icons=true&theme=radical)
