@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Diyorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyorbekBoltayev)](https://github.com/DiyorbekBoltayev/github-readme-stats)
 ![Diyorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyorbekBoltayev&show_icons=true&theme=radical)
