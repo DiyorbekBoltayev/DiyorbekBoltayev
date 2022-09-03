@@ -17,7 +17,7 @@ My coding time -
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 
-<img title="PHP"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img title="PHP"  src="https://miro.medium.com/max/870/1*A2tcXJbYa4k7133CjvCG4w.jpeg" alt="php" width="45" height="45"/>
  <img title="Laravel"  src="https://asset.brandfetch.io/ide68-31CH/idlxAUbIOo.jpeg" alt="laravel" width="45" height="45"/>
   <img title="MySQL"  src="https://e7.pngegg.com/pngimages/617/252/png-clipart-mysql-workbench-computer-icons-logo-database-server-blue-text.png" alt="mysql" width="45" height="45"/>
   <img title="HTML"  src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" alt="mysql" width="45" height="45"/>
