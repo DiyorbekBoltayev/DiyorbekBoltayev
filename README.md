@@ -24,8 +24,7 @@ My coding time -
   <img title="CSS"  src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo" alt="CSS" width="45" height="45"/>
  <img title="Bootstrap"  src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="Bootstrap" width="45" height="45"/>
   <img title="JavaScript"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="45" height="45"/>
-   <img title="Telegram Bot"  src="https://chatlayer.ai/wp-content/uploads/2022/04/Telegram-Bots-CL-Blog-Title-01.png" alt="Telegram bot" width="45" height="45"/>
+   <img title="Telegram Bot"  src="https://raw.githubusercontent.com/php-telegram-bot/assets/master/logo/512px/logo_plain.png" alt="Telegram bot" width="45" height="45"/>
    
-  [https://chatlayer.ai/best-telegram-bots-in-2022/]()
 </p>
 
