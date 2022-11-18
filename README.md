@@ -27,4 +27,5 @@ My coding time -
    <img title="Telegram Bot"  src="https://raw.githubusercontent.com/php-telegram-bot/assets/master/logo/512px/logo_plain.png" alt="Telegram bot" width="45" height="45"/>
    
 </p>
+<a href="https://www.buymeacoffee.com/boltayevdiyorbe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150px" ></a>
 
