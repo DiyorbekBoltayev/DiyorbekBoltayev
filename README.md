@@ -12,7 +12,7 @@
 My coding time -
 [![wakatime](https://wakatime.com/badge/user/88be9afb-b2e3-4019-85f9-6e7d02e50981.svg)](https://wakatime.com/@88be9afb-b2e3-4019-85f9-6e7d02e50981)
 
-[![](https://visitcount.itsvg.in/api?id=DiyorbekBoltayev&label=Visitors&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
+Github profile views - [![](https://visitcount.itsvg.in/api?id=DiyorbekBoltayev&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ![snake svg](https://github.com/DiyorbekBoltayev/DiyorbekBoltayev/blob/output/github-contribution-grid-snake.svg)
 
