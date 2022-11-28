@@ -12,6 +12,8 @@
 My coding time -
 [![wakatime](https://wakatime.com/badge/user/88be9afb-b2e3-4019-85f9-6e7d02e50981.svg)](https://wakatime.com/@88be9afb-b2e3-4019-85f9-6e7d02e50981)
 
+[![](https://visitcount.itsvg.in/api?id=DiyorbekBoltayev&label=Visitors&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 ![snake svg](https://github.com/DiyorbekBoltayev/DiyorbekBoltayev/blob/output/github-contribution-grid-snake.svg)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
