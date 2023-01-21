@@ -1,6 +1,6 @@
 👋 Hi, I'm Diyorbek \
 💫 I like creating Website and Telegram bot\
-💻 I know PHP & MYSQL & Laravel  (HTML,CSS,Bootstrap,JavaScript,VueJS,Python,Django)\
+💻 I know PHP & MYSQL & Laravel & {HTML,CSS,Bootstrap,JavaScript,VueJS,Python,Django}\
 👨‍💻 I’m looking to collaborate on projects \
 💬 I'm 19-years old developer from Uzbekistan/Khorezm \
 🌐 My web-site [AmuSoft.uz](http://amusoft.uz) \
