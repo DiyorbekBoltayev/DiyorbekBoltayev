@@ -24,6 +24,8 @@ My coding time -
   <img title="JavaScript"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="45" height="45"/>
    <img title="VueJS"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png?20170919082558" alt="VueJS" width="45" height="45"/>
    <img title="Telegram Bot"  src="https://raw.githubusercontent.com/php-telegram-bot/assets/master/logo/512px/logo_plain.png" alt="Telegram bot" width="45" height="45"/>
+   <img title="Python"  src="https://png2.cleanpng.com/sh/07805e7ddd58f2a80f3be9ca91cb96c0/L0KzQYm3VMEzN6prj5H0aYP2gLBuTgB6fJl0hp95cnBqgrL0jflvb15xedDwdXHqdX7qjB1xfaVqip95cnBqgrL0jflvb15xedDwdXHqdX68gfNnbJQ4Tqc7OULkRnA9WcE2OWE9UaMAMkO4R4KAVsY0O2k3RuJ3Zx==/kisspng-python-programming-language-computer-programming-language-5acfdc365292a6.6915108915235717663382.png" alt="Python" width="45" height="45"/>
+   <img title="Django"  src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" width="90" height="45"/>
    
 </p>
 <a href="https://www.buymeacoffee.com/boltayevdiyorbe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150px" ></a>
