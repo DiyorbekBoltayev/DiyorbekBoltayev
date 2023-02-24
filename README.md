@@ -1,10 +1,10 @@
 👋 Hi, I'm Diyorbek \
-💫 I like creating Website and Telegram bot\
-💻 I know PHP & MYSQL & Laravel & {HTML,CSS,Bootstrap,JavaScript,Python}\
+💫 I like creating `Website` and `Telegram bot`\
+💻 I know `PHP` & `MYSQL` & `Laravel` & `[HTML,CSS,Bootstrap,JavaScript,Python]`\
 👨‍💻 I’m looking to collaborate on projects \
 💬 I'm 19-years old developer from Uzbekistan/Khorezm \
-🌐 My web-site [AmuSoft.uz](http://amusoft.uz) \
-📫 Reach me on [![Diyorbek Boltayev](https://img.shields.io/badge/DiyorbekBoltayev-30302f?style=flat&logo=telegram)](https://t.me/Diyorbek_Boltayev) 
+🌐 My web-site  [AmuSoft.uz](http://amusoft.uz) \
+📫 Reach me on Telegram [![Diyorbek Boltayev](https://img.shields.io/badge/DiyorbekBoltayev-30302f?style=flat&logo=telegram)](https://t.me/Diyorbek_Boltayev) 
 
 
 
@@ -25,12 +25,14 @@ My coding time -
   
    <img title="Telegram Bot"  src="https://raw.githubusercontent.com/php-telegram-bot/assets/master/logo/512px/logo_plain.png" alt="Telegram bot" width="45" height="45"/>
    <img title="Python"  src="https://i.pinimg.com/originals/4d/13/d5/4d13d55d6d0b38b7a4e85fcf97ff6279.jpg" alt="Python" width="45" height="45"/>
-   <a href="https://www.buymeacoffee.com/boltayevdiyorbe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150px" ></a>
 </p>
 <hr>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DiyorbekBoltayev&show_icons=true&theme=gotham" alt="Diyorbek" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DiyorbekBoltayev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Diyorbek" /></a> </p>
 
+<p align="center" >
+   <a href="https://www.buymeacoffee.com/boltayevdiyorbe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150px" ></a>
+</p>
 
 
