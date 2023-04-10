@@ -8,8 +8,9 @@
 
 
 
-My coding time -
+
 [![wakatime](https://wakatime.com/badge/user/88be9afb-b2e3-4019-85f9-6e7d02e50981.svg)](https://wakatime.com/@88be9afb-b2e3-4019-85f9-6e7d02e50981)
+[![Hits](https://hits.sh/github.com/DiyorbekBoltayev.svg?labelColor=4b0bc9)](https://hits.sh/github.com/DiyorbekBoltayev/)
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
