@@ -15,6 +15,8 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 
+ <img title="Java"  src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-512.png" alt="java" width="45" height="45"/>
+ <img title="Spring boot"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png?20230616230349" alt="springboot" width="45" height="45"/>
 <img title="PHP"  src="https://miro.medium.com/max/870/1*A2tcXJbYa4k7133CjvCG4w.jpeg" alt="php" width="45" height="45"/>
  <img title="Laravel"  src="https://asset.brandfetch.io/ide68-31CH/idlxAUbIOo.jpeg" alt="laravel" width="45" height="45"/>
   <img title="MySQL"  src="https://e7.pngegg.com/pngimages/617/252/png-clipart-mysql-workbench-computer-icons-logo-database-server-blue-text.png" alt="mysql" width="45" height="45"/>
