@@ -1,8 +1,4 @@
 👋 Hi, I'm Diyorbek \
-💫 I like creating `Website` and `Telegram bot`\
-💻 I know `Java` & `PHP` & `MYSQL` & `Laravel` & `[HTML,CSS,Bootstrap,JavaScript,Python]`\
-👨‍💻 I’m looking to collaborate on projects \
-💬 I'm 20 years old developer from Uzbekistan/Khorezm \
 📫 Reach me on Telegram [![Diyorbek Boltayev](https://img.shields.io/badge/DiyorbekBoltayev-30302f?style=flat&logo=telegram)](https://t.me/Diyorbek_Boltayev) 
 
 
