@@ -1,5 +1,5 @@
 👋 Hi, I'm Diyorbek \
-📫 Reach me on Telegram [![Diyorbek Boltayev](https://img.shields.io/badge/DiyorbekBoltayev-30302f?style=flat&logo=telegram)](https://t.me/Diyorbek_Boltayev) 
+[![Diyorbek Boltayev](https://img.shields.io/badge/DiyorbekBoltayev-30302f?style=flat&logo=telegram)](https://t.me/Diyorbek_Boltayev) 
 
 
 
