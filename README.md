@@ -15,7 +15,8 @@ I build high-load, consistency-critical backend systems — billing platforms th
 
 - **TozaMakon Billing** — accounts and payments for **7M+ subscribers**; e-payment and Wialon GPS integrations; monthly balance generation cut from **1 h 20 min → 6 min**.
 - **HET Billing** — account and payment data for **8M+ users**; found and fixed a lost-update race between payments and recalculation with a custom **Kafka + Redis** lock.
-- 🥇 **1st place — National AI Hackathon**, Khorezm stage (Sep 2026, organized by AI Alliance NGO) · project *DarsPilot*.
+- 🥇 **1st place — National AI Hackathon**, Khorezm stage (Sep 2026, organized by AI Alliance NGO) · project <a href="https://darspilot.com" target="_blank">DarsPilot
+</a>.
 - 🥇 **1st place — national online olympiad** in Informatics and IT for university students (2021).
 
 ### 🛠 Tech stack
